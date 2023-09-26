@@ -10,9 +10,7 @@ This Go application fetches real-time cryptocurrency prices using a trading API 
 
 ## Usage
 
-1. **Configuration**: Open `config.json` and specify the cryptocurrencies you want to track.
-
-2. **Run the Application**:
+1. **Run the Application**:
 
    ```bash
    go run main.go
